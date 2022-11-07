@@ -19,6 +19,15 @@ import javafx.scene.control.ToggleGroup;
 import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
 
+/* 
+ * Author: Joseph Berrigan, Alex Perez
+ * Date: 11/7/2022
+ * Practice assignment 4
+ * Name: MPGCalculator.java
+ * Course: CSCI 1302
+ * Description: Mileage calculator updated to be on GitHub maybe this works?
+ */
+
 public class MileageCalculatorNoConversion extends Application {
 	// default values/strings
     private double txtWidth = 125.0;
