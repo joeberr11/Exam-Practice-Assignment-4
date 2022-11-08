@@ -40,7 +40,7 @@ public class MileageCalculatorNoConversion extends Application {
     private String altCapacity = "Liters";
     private String altResult = "L/100KM";
     
-    // create UI components split by type doody
+    // create UI components split by type
     private Button btnCalc = new Button("Calculate");
     private Button btnReset = new Button("Reset");
     
