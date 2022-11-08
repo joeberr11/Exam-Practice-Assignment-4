@@ -20,7 +20,7 @@ import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
 
 /* 
- * Author: Joseph Berrigan, Alex Perez  Alex was here 
+ * Author: Joseph Berrigan, Alex Perez  Alex was here X2
  * Date: 11/7/2022
  * Practice assignment 4
  * Name: MPGCalculator.java
