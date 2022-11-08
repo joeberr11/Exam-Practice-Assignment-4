@@ -21,7 +21,7 @@ import javafx.stage.Stage;
 
 /*
  * Author: Joseph Berrigan, Alex Perez was here......... maybe
- * Date: 11/7/2022
+ * Date: 11/7/2022 its pass my bed time 
  * Practice assignment 4
  * Name: MPGCalculator.java
  * Course: CSCI 1302
